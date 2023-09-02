@@ -7,4 +7,4 @@ The question of whether obesity should be regarded as a disease remains controve
 ways in which the word “obesity” is used. In medicine, the word “obesity” now typically refers to some or all of a set of interrelated dysfunctions of metabolism, adipose
 tissue, and dietary intake regulation
 
-![分析流程](/分析流程.jpg)
+![1692945467069(1)](https://github.com/Hxl2023-ZH/UpDataTest/assets/126218017/72e69b87-c914-470c-9d46-0392924d3ed0)
